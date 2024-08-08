@@ -1,0 +1,75 @@
+.boton{
+    font-size: 40px;
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: rgb(135, 69, 223);
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.boton:hover{
+    background-color: #c076d6;
+}
+.containerTitulo{
+    display: flex;
+    justify-content: left;
+}
+.accesibilidad{
+    height: 150px;
+    margin-top: 100px;
+}
+.container-acces{
+    display: flex;
+    justify-content: center;
+}
+.logoCaba{
+    height: 80px;
+    margin-left: 30px;
+}
+.titulo{
+    color: blueviolet;
+    margin-right: 30px;
+    
+    
+}
+.header{
+    background-color: white;
+}
+
+.subTitulo{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.containerBotones{
+    display: flex;
+    justify-content:center;
+    flex-direction:column;
+}
+.btn {
+    padding: 10px 20px;
+    background-color:rgb(127, 51, 225);
+    color: white;
+    text-decoration: none; 
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    font-size: 30px;
+    display: inline-block;
+    margin-top: 70px;
+}
+.container-btn{
+    display: flex;
+    justify-content: center;
+}
+.btn:hover {
+    background-color: #c576d6;
+}
+.logo-bano{
+    height: 300px;
+}
